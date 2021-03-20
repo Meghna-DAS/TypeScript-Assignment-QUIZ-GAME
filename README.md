@@ -23,7 +23,7 @@ Semester: IV<br>
 Division : A<br>
 Subject: Current Trends and Information Practices<br>
 
-## Answers 😎
+## Questions and Answers 😎
 ![image](https://user-images.githubusercontent.com/55181652/111868287-129cbf80-899f-11eb-8073-21e3698b07df.png)
 
 
