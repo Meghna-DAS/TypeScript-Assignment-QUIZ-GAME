@@ -1,8 +1,11 @@
-## Screenshot 1
-![image](https://user-images.githubusercontent.com/55181652/111868063-cd2bc280-899d-11eb-9e85-3065c41ce542.png)
+## Screenshot 1 - TEAM A LOG
+![image](https://user-images.githubusercontent.com/55181652/111868152-41fefc80-899e-11eb-807c-b454ecf29e55.png)
 
-## Screenshot 2
-![image](https://user-images.githubusercontent.com/55181652/111868081-d9178480-899d-11eb-8d67-1bf037b50df5.png)
 
-## Screenshot 3
-![image](https://user-images.githubusercontent.com/55181652/111868087-e3398300-899d-11eb-9ef1-941156d5a268.png)
+## Screenshot 2 - TEAM B LOG
+![image](https://user-images.githubusercontent.com/55181652/111868154-475c4700-899e-11eb-8139-a7720fddc64f.png)
+
+
+## Screenshot 3 - RUNNING PROGRAM
+![image](https://user-images.githubusercontent.com/55181652/111868146-39a6c180-899e-11eb-92d1-495533d96183.png)
+
