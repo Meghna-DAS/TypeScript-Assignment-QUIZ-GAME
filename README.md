@@ -1,4 +1,4 @@
-# TypeScript-Project-QUIZ
+# TypeScript-Assignment-QUIZ GAME
 
 
 ## General Information 🤷‍♀️
@@ -9,7 +9,7 @@ If both teams have same points, the match becomes draw.<br>
 ## Technologies 👩‍💻
 Typescript
 
-## Steps to do the project🤩
+## Steps to do the assignment🤩
 1. Define Team Names
 2. Define list of questions and answers
 3. Check score of each team
